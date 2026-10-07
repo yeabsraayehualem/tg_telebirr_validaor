@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+app/__init__.py
+app/__main__.py
+app/bot.py
+app/config.py
+app/database.py
+app/ocr.py
+app/receipt.py
+telebirr_audio_bot.egg-info/PKG-INFO
+telebirr_audio_bot.egg-info/SOURCES.txt
+telebirr_audio_bot.egg-info/dependency_links.txt
+telebirr_audio_bot.egg-info/requires.txt
+telebirr_audio_bot.egg-info/top_level.txt

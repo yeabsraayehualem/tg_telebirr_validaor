@@ -1,0 +1,6 @@
+python-telegram-bot<23,>=22
+httpx<1,>=0.27
+beautifulsoup4<5,>=4.12
+Pillow<13,>=10
+pytesseract<1,>=0.3.13
+python-dotenv<2,>=1
